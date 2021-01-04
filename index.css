@@ -1,9 +1,17 @@
 body{
-    background: color:black;
-}
-h1{color:red}
-p{color:royalblue}
-table{color:royalblue}
+     background-color:#f4f4f4;
+    color: #555555;
+font-family:Arial, Helvetica, sans-serif;
+font-weight: normal;
+font-size: medium;}
+    a{background-color: black;
+        color: white;}
+        table{
+            line-height:1.5em;
+        }
 p{
     margin:auto
 }
+.box-1{ background-color: black;
+font: white;}
+
