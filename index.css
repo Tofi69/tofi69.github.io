@@ -9,9 +9,8 @@ font-size: medium;}
         table{
             line-height:1.5em;
         }
-p{
-    margin:auto
+p{border: black 5px solid;}
+.box-1{ width: 80%;
+    margin: auto;
 }
-.box-1{ background-color: black;
-font: white;}
 
