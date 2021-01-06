@@ -1,1 +1,3 @@
-alert("This website is going to be awesome")
+alert("Lehetetlen iveket hasznal")
+
+

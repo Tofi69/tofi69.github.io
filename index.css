@@ -1,16 +1,26 @@
 body{
-     background-color:#f4f4f4;
-    color: #555555;
+    background-color:black;
+    color: white;
 font-family:Arial, Helvetica, sans-serif;
 font-weight: normal;
-font-size: medium;}
+font-size: medium;
+background-image:url(https://media.tenor.com/images/38f210347bd0742d729b13256dac675a/tenor.gif);
+margin:auto
+
+}
     a{background-color: black;
         color: white;}
-        table{
+        table{background-color:black;
             line-height:1.5em;
+            
         }
-p{border: black 5px solid;}
+p{border: white 5px solid;}
 .box-1{ width: 80%;
-    margin: auto;
+    background-color: black;
+    color: white;
+}
+h4{
+    color:white;  border: black 5px solids;
+    background-color: black;
 }
 
